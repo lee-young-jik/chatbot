@@ -1,0 +1,202 @@
+﻿<Siml>
+  <!--Splitter: This splitter element is used split sentences into different Input values for processing.-->
+  <!--Text: Splits the user input wherever the given character or sequence of characters are found. -->
+  <!--Word: Splits the user input wherever the given word ( separated by SPACE ) is found.-->
+  <!--Regex: Splits the user input wherever the given Regular Expression matches.-->
+  <!--Note: The order/priority of splitting the user input is proportional to the order of elements within this Splitter element-->
+  <Splitter>
+    <Text>.</Text>
+    <Text>?</Text>
+    <Text>!</Text>
+    <Text>;</Text>
+    <Text>은</Text>
+    <Text>는</Text>
+    <Text>이</Text>
+    <Text>가</Text>
+    <Splitter>
+      <Text>가 </Text>
+      <Text>같이 </Text>
+      <Text>거나 </Text>
+      <Text>게 </Text>
+      <Text>게로 </Text>
+      <Text>게서 </Text>
+      <Text>고 </Text>
+      <Text>곧 </Text>
+      <Text>과 </Text>
+      <Text>그래 </Text>
+      <Text>그려 </Text>
+      <Text>까지 </Text>
+      <Text>깨나 </Text>
+      <Text>께 </Text>
+      <Text>께서 </Text>
+      <Text>께압서 </Text>
+      <Text>께오서 </Text>
+      <Text>께옵서 </Text>
+      <Text>끄정 </Text>
+      <Text>ㄴ </Text>
+      <Text>ㄴ들 </Text>
+      <Text>ㄴ즉 </Text>
+      <Text>ㄴ즉슨 </Text>
+      <Text>ㄴ커녕 </Text>
+      <Text>나 </Text>
+      <Text>나마 </Text>
+      <Text>는 </Text>
+      <Text>는커녕 </Text>
+      <Text>니 </Text>
+      <Text>다 </Text>
+      <Text>다가 </Text>
+      <Text>대로 </Text>
+      <Text>더러 </Text>
+      <Text>도 </Text>
+      <Text>도고 </Text>
+      <Text>두 </Text>
+      <Text>든 </Text>
+      <Text>든가 </Text>
+      <Text>든지 </Text>
+      <Text>들 </Text>
+      <Text>따라 </Text>
+      <Text>ㄹ </Text>
+      <Text>ㄹ랑 </Text>
+      <Text>ㄹ랑은 </Text>
+      <Text>라 </Text>
+      <Text>라고 </Text>
+      <Text>라도 </Text>
+      <Text>라든가 </Text>
+      <Text>라든지 </Text>
+      <Text>라서 </Text>
+      <Text>라야 </Text>
+      <Text>라야만 </Text>
+      <Text>란 </Text>
+      <Text>랑 </Text>
+      <Text>로 </Text>
+      <Text>로다 </Text>
+      <Text>로다가 </Text>
+      <Text>로부터 </Text>
+      <Text>로서 </Text>
+      <Text>로써 </Text>
+      <Text>를 </Text>
+      <Text>마냥 </Text>
+      <Text>마는 </Text>
+      <Text>마다 </Text>
+      <Text>마따나 </Text>
+      <Text>마저 </Text>
+      <Text>만 </Text>
+      <Text>만치 </Text>
+      <Text>만큼 </Text>
+      <Text>며 </Text>
+      <Text>면 </Text>
+      <Text>밖에 </Text>
+      <Text>버덤 </Text>
+      <Text>보고 </Text>
+      <Text>보다 </Text>
+      <Text>부터 </Text>
+      <Text>뿐 </Text>
+      <Text>사말로 </Text>
+      <Text>새려 </Text>
+      <Text>새로에 </Text>
+      <Text>서 </Text>
+      <Text>서껀 </Text>
+      <Text>서부터 </Text>
+      <Text>서야 </Text>
+      <Text>설라믄 </Text>
+      <Text>설랑은 </Text>
+      <Text>손 </Text>
+      <Text>시여 </Text>
+      <Text>아 </Text>
+      <Text>안테로 </Text>
+      <Text>야 </Text>
+      <Text>야말로 </Text>
+      <Text>에 </Text>
+      <Text>에게 </Text>
+      <Text>에게다 </Text>
+      <Text>에게다가 </Text>
+      <Text>에게로 </Text>
+      <Text>에게서 </Text>
+      <Text>에는 </Text>
+      <Text>에다 </Text>
+      <Text>에다가 </Text>
+      <Text>에로 </Text>
+      <Text>에를 </Text>
+      <Text>에서 </Text>
+      <Text>에서부터 </Text>
+      <Text>에서야 </Text>
+      <Text>에서야 </Text>
+      <Text>에야 </Text>
+      <Text>에의 </Text>
+      <Text>엔 </Text>
+      <Text>엘 </Text>
+      <Text>여 </Text>
+      <Text>와 </Text>
+      <Text>요 </Text>
+      <Text>으로 </Text>
+      <Text>으로다 </Text>
+      <Text>으로다가 </Text>
+      <Text>으로부터 </Text>
+      <Text>으로서 </Text>
+      <Text>으로써 </Text>
+      <Text>은 </Text>
+      <Text>은커녕 </Text>
+      <Text>을 </Text>
+      <Text>을랑 </Text>
+      <Text>을랑은 </Text>
+      <Text>의 </Text>
+      <Text>이 </Text>
+      <Text>이고 </Text>
+      <Text>이나 </Text>
+      <Text>이나따나 </Text>
+      <Text>이나마 </Text>
+      <Text>이니 </Text>
+      <Text>이다 </Text>
+      <Text>이든 </Text>
+      <Text>이든지 </Text>
+      <Text>이라 </Text>
+      <Text>이라고 </Text>
+      <Text>이라도 </Text>
+      <Text>이라든가 </Text>
+      <Text>이라든지 </Text>
+      <Text>이라서 </Text>
+      <Text>이라야 </Text>
+      <Text>이라야만 </Text>
+      <Text>이란 </Text>
+      <Text>이랑 </Text>
+      <Text>이랴 </Text>
+      <Text>이며 </Text>
+      <Text>이면 </Text>
+      <Text>이시여 </Text>
+      <Text>이야 </Text>
+      <Text>이야말로 </Text>
+      <Text>이여 </Text>
+      <Text>이요 </Text>
+      <Text>인들 </Text>
+      <Text>인즉 </Text>
+      <Text>인즉슨 </Text>
+      <Text>일랑 </Text>
+      <Text>일랑은 </Text>
+      <Text>조차 </Text>
+      <Text>증약리 </Text>
+      <Text>처럼 </Text>
+      <Text>치고 </Text>
+      <Text>치고는 </Text>
+      <Text>치고서 </Text>
+      <Text>카냥 </Text>
+      <Text>커녕 </Text>
+      <Text>토록 </Text>
+      <Text>하고 </Text>
+      <Text>하고는 </Text>
+      <Text>하며 </Text>
+      <Text>한테 </Text>
+      <Text>한테다 </Text>
+      <Text>한테다가 </Text>
+      <Text>한테로 </Text>
+      <Text>한테서 </Text>
+      <Text>할래 </Text>
+      <Text>헌테 </Text>
+    </Splitter>
+  </Splitter>
+  <!--Filter: Filters here are used to filter user input BEFORE its processed. You may use <Text>, <Word> and <Regex> tags.-->
+  <!--Text: Text element is used to filter all occurance of a the specified text within the input-->
+  <!--Word: Word element is used to filter individual words that may be separated by a SPACE character-->
+  <!--Regex: Regular Expression that is used to replace textual strings wherever a pattern is matched-->
+  <!--Note: Depending on your requirement ( considering defined Regular Expressions ) you should make sure certain characters/words are NOT filtered-->
+  <!--Note: Your filters should not conflict with Pattern Reductions. If you filter out important words you may render a pattern reduction useless-->
+</Siml>

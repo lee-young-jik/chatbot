@@ -1,0 +1,669 @@
+﻿<Siml>
+  <Concept Name="Introduction">
+    
+    <Model>
+      <Pattern>
+        <Item>{디지털}</Item>
+      </Pattern>
+      <Response>
+			 4차 산업혁명 시대의 핵심기술인 인공지능, 빅데이터, 사물인터넷 등의 소프트웨어 기술을 의료헬스케어 분야와 융합하여 헬스케어분야에 특화된 전문 소프트웨어를 개발하고 지능화된 서비스를 제공할 수 있는 헬스케어-SW 융합인재을 양성하고 연구를 수행하기 위한 소프트웨어융합 특성화 학과
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{소프트웨어}</Item>
+      </Pattern>
+      <Response>
+			 미래캠퍼스가 SW중심대학사업에 선정됨에 따라서 AI, 빅데이터, IoT로 대표되는 4차산업혁명을 여러 분야에서 뒷받침할 소프트웨어 인재를 양성하기 위한 다양한 교육을 제공하고자 컴퓨터정보통신공학부와 수학과를 통합 개편한 학부
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{등록금}</Item>
+      </Pattern>
+      <Response>
+			 학과마다 차이가 있는데 우리 학과는 한 학기에 4,662,000원을 납부해야해.
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{편의}</Item>
+      </Pattern>
+      <Response>
+			인쇄 및 제본을 돕는 POD센터, 교재를 구매할 수 있는 구내서점, 빨래방, 우편취급국, 우리은행, 안경점 등이 있어
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{커피}</Item>
+      </Pattern>
+      <Response>
+			학관에 한울샘, 아이라운지가 있고 정의관에 카페 딕셔너리가 있으며 연세 플라자에 7월의 무화과, 뚜레쥬르, 카페 딕셔너리가 또 있다.
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{ROTC}</Item>
+      </Pattern>
+      <Response>
+			초급 장교를 충원하기 위해 미국의 학생군사훈련단(ROTC) 제도를 도입하여 전국 종합대학 내에 설치한 학생군사훈련단으로 우리 학교는 백운관 옆쪽에 학군단이 위치하고 있어.
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{거북섬}</Item>
+      </Pattern>
+      <Response>
+			거북섬’이란 이름은 이 저수지에 물이 차면 섬이 마치 거북이와 비슷하여 붙여진 이름이다. 섬 가운데에는 2.43m에 이르는 돌로 된 미륵불이 있다.
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{연택}</Item>
+      </Pattern>
+      <Response>
+			비슷한 위치로 가는 여러 학생들을 한 택시에 태워서 이동시켜줌으로써 혼자 타게된다면 부담해야하는 가격보다 더 저렴하게 이용할 수 있어.
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{동아리}</Item>
+      </Pattern>
+      <Response>
+        힙합 음악을 다루는 동아리인 OMG, 여행동아리로 알려져있는 유스호스텔, 천사의 집에 가서 아픈 친구들과 따뜻한 시간을 보낼 수 있는 키비탄 등이 있다.
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{학식}</Item>
+      </Pattern>
+      <Response>
+         세 가지 정도의 코스로 나누어져있고 가격은 2000~5000원 정도로 이루어져있어.
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{동문}</Item>
+      </Pattern>
+      <Response>
+        윤종신(국문-88학번), 진용원(통계-07학번), 이명학(영문-95학번) 등이 있어.
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{학교 단점}</Item>
+      </Pattern>
+      <Response>
+        단점이 없는 것이 단점 입니다
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>안녕</Item>
+        <Item>안녕하세요</Item>
+      </Pattern>
+      <Response>
+        안녕하세요!
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{수고}</Item>
+        <Item>{감사합니다}</Item>
+      </Pattern>
+      <Response>
+        수고하셨습니다!
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>HELLO BOT</Item>
+        <Item>HELLO</Item>
+      </Pattern>
+      <Response>
+        hello user
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{크리스마스}</Item>
+      </Pattern>
+      <Response>
+        소중한사람들과 함께하기!
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{전화 번호}</Item>
+      </Pattern>
+      <Response>
+        1599-1885
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{지호}</Item>
+        <Item>{호수}</Item>
+      </Pattern>
+      <Response>
+        학교의 자랑인 호수로 아름다운 경관을 자랑합니다!
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{매지리}</Item>
+        <Item>{매지리 맛집}</Item>
+      </Pattern>
+      <Response>
+        매지리는 학교앞에 공간을 뜻하며, 매지리의 맛집은 연불이 있습니다!
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{기숙사}</Item>
+      </Pattern>
+      <Response>
+        기숙사는 세연 매지 청연으로 이루어져 있으며 정문으로 들어와 좌측에 펼쳐져 있습니다!
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{운동장}</Item>
+        <Item>{운동장 위치}</Item>
+        <Item>{운동장 위치}</Item>
+      </Pattern>
+      <Response>
+        스센을 지나 쭉 직진하면 됩니다!
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{청송 역사}</Item>
+      </Pattern>
+      <Response>
+        토지북카페가 있다. 토지라는 이름에서 알 수 있듯 인문예술대학 국어국문학과 석좌교수였던 박경리 선생을 기념하기 위해 만들어졌다. 박물관 내에는 미래캠퍼스 역사문화학과가 소장하거나 발굴한 유물들이 전시되어 있다.
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{정의 역사}</Item>
+      </Pattern>
+      <Response>
+        2018년 개교 40주년 기념으로 증축한 건물 뒷편의 왼편과 우편의 확장 공사가 마무리되었다.
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{창조 역사}</Item>
+      </Pattern>
+      <Response>
+        과학기술대학의 본진으로,원래 3층구조였다가 5층으로 증축된 것으로 보인다. 3층까지의 벽돌색과 4~5층 벽돌색이 차이가 나는 것이 근거.
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{인공 수업}</Item>
+      </Pattern>
+      <Response>
+        뭐니뭐니해도 인공지능 수업이 가장 재밌고 유익 합니다!
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{개교}</Item>
+      </Pattern>
+      <Response>
+        1959년 원주기독연합병, 1977년 연세대학교 의과대학 원주분교
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{컴퓨터}</Item>
+      </Pattern>
+      <Response>
+        컴퓨터정보통신공학부는 창조관에 속해있습니다!
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{키스}</Item>
+      </Pattern>
+      <Response>
+        미래캠퍼스에는 ‘키스로드’라 불리는 길이 있습니다. 혼자, 또는 동성끼리 이 길을 다니면 졸업 때 까지 이성친구를 만들지 못한다는 전설이 있습니다
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{교회}</Item>
+      </Pattern>
+      <Response>
+        건물 뒤편 중앙에 테라스가 있는데, 창이 매우 커 서 햇빛이 잘 들어온다는 점이 특징이다. 산뜻한 겉모습과 달리 내부는 콘크리트 타일 인테리어입니다.
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{윤한}</Item>
+        <Item>{교수}</Item>
+      </Pattern>
+      <Response>
+        <Random>
+          <Item>제너럴 킹갓 마제스티 알티피셜 마스터! 윤한얼 교수님!</Item>
+        </Random>
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{이창}</Item>
+        <Item>{조교}</Item>
+      </Pattern>
+      <Response>
+        <Random>
+          <Item>가장 뛰어나신 조교님!</Item>
+        </Random>
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{연세대학교}</Item>
+      </Pattern>
+      <Response>
+        아름다운 자연 경관과 뛰어난 교수님들 우수한 인재가 많은 학교!
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{조}</Item>
+        <Item>{팀}</Item>
+      </Pattern>
+      <Response>
+        미파고!
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{안녕}</Item>
+      </Pattern>
+      <Response>
+        <Random>
+          <Item>안녕!</Item>
+        </Random>
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{사랑해}</Item>
+      </Pattern>
+      <Response>
+        나도 사랑해
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{교훈}</Item>
+        <Item>교훈</Item>
+        <Item>교훈은 무엇인가요</Item>
+      </Pattern>
+      <Response>
+        <Random>
+          <Item>진리가 너희를 자유케 하리라!</Item>
+          <Item>VERITAS VOS LIBERABIT</Item>
+        </Random>
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{상징}</Item>
+        <Item>상징동물</Item>
+        <Item>상징동물은 무엇인가요</Item>
+      </Pattern>
+      <Response>
+        독수리
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{교목}</Item>
+        <Item>교목</Item>
+        <Item>교목은 무엇인가요</Item>
+      </Pattern>
+      <Response>
+        소나무
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{교화}</Item>
+        <Item>교화</Item>
+        <Item>교화는 무엇인가요</Item>
+      </Pattern>
+      <Response>
+        파란장미
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{교색}</Item>
+        <Item>교색</Item>
+        <Item>교색은 무엇인가요</Item>
+      </Pattern>
+      <Response>
+        YONSEI BLUE,YONSEI SKY BLUE,YONSEI GRAY,YONSEI SILVER, YONSEI YELLOW
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{슬로건}</Item>
+        <Item>슬로건</Item>
+        <Item>슬로건은 무엇인가요</Item>
+      </Pattern>
+      <Response>
+        YONSEI, Leading the Way to the Future
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{주소}</Item>
+        <Item>주소</Item>
+        <Item>주소는</Item>
+        <Item>주소는 무엇인가요</Item>
+      </Pattern>
+      <Response>
+        강원도 원주시 연세대길1
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{설립 년도}</Item>
+        <Item>{설립 연도}</Item>
+        <Item>설립년도</Item>
+        <Item>설립연도</Item>
+        <Item>설립년도는</Item>
+      </Pattern>
+      <Response>
+        1978년
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{프로젝트}</Item>
+        <Item>프로젝트</Item>
+        <Item>프로젝트는 어땟나요?</Item>
+      </Pattern>
+      <Response>
+        즐겁고 유익한.....zzzz
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{축제}</Item>
+        <Item>축제</Item>
+        <Item>축제는 어떤가요?</Item>
+      </Pattern>
+      <Response>
+        학교에서 술을 못마시는게 아쉽지만 연예인들도 많이 오고 분위기도 즐겁습니다.
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{연고전}</Item>
+        <Item>연고전</Item>
+        <Item>연고전이 뭔가요</Item>
+        <Item>연고전이란?</Item>
+      </Pattern>
+      <Response>
+        경쟁 구도에 있는 고려대학교와 여러 스포츠 종목으로 경쟁하며 승패를 가루는 축제이다.
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{고라니}</Item>
+        <Item>고라니</Item>
+        <Item>고라니가 나오나요</Item>
+      </Pattern>
+      <Response>
+        네. 특히 새벽에 공부를 마치고 집에 가는 학생들이 고라니 울음소리를 많이 듣는다고 하네요.
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{팅커벨}</Item>
+        <Item>팅커벨</Item>
+        <Item>팅커벨은 무엇인가요</Item>
+        <Item>나방</Item>
+        <Item>나방을 뭐라고 부르나요</Item>
+      </Pattern>
+      <Response>
+        학교가 공기 좋은 시골에 위치해서 건강한 곤충들의 크기가 유낙 큰데 나방이 손바닥만한게 팅커벨과 같다하여 팅커벨이라고 불립니다.
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{학교 자랑}</Item>
+        <Item>학교자랑</Item>
+        <Item>학교자랑해줘</Item>
+        <Item>학교자랑해주세요</Item>
+        <Item>학교자랑거리</Item>
+      </Pattern>
+      <Response>
+        오래된 역사와 훌륭하신 교수님들이 계시며, 아름다운 자연경관 특히 매지호라는 호수가 가장 아름답다
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{정의}</Item>
+        <Item>정의관</Item>
+        <Item>정의관에대해 설명해줘</Item>
+        <Item>정의관에대해 설명해주세요</Item>
+        <Item>정의관에대해 설명해 줄래</Item>
+      </Pattern>
+      <Response>
+        경형학부 학생들이 주로 수업을 듣는 곳이며, 모든 학생이 채플을 듣는 곳이다
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>청송관</Item>
+        <Item>{청송}</Item>
+        <Item>청송관에대해 설명해줘</Item>
+        <Item>청송관에대해 설명해주세요</Item>
+        <Item>청송관에대해 설명해 줄래</Item>
+      </Pattern>
+      <Response>
+        디자인 예술학부 학생들이 주로 공부를 하는 곳입니다
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{정의 위치}</Item>
+        <Item>정의관이 어디니</Item>
+        <Item>정의관 위치</Item>
+        <Item>정의관 가는법</Item>
+        <Item>정의관 어떻게 가나요</Item>
+      </Pattern>
+      <Response>
+        정문으로 들어와 학관에서 왼쪽으로 꺽은 뒤 정면에 보이는 정의관 옆건물입니다
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{컨버전스홀}</Item>
+        <Item>컨버전스홀</Item>
+        <Item>컨버전스홀에대해 설명해줘</Item>
+        <Item>컨버전스홀에대해 설명해주세요</Item>
+        <Item>컨버전스홀에대해 설명해 줄래</Item>
+      </Pattern>
+      <Response>
+        SW디지털헬스케어융합대학의 본진이 될 예정이고 현재 공사중입니다.
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{창조}</Item>
+        <Item>창조관</Item>
+        <Item>창조관에대해 설명해줘</Item>
+        <Item>창조관에대해 설명해주세요</Item>
+        <Item>창조관에대해 설명해 줄래</Item>
+      </Pattern>
+      <Response>
+        연세대학교 미래캠퍼스의 창조관은 컨버젼스홀의 우측 뒷편에 위치하고 있습니다. 청송관과 쌍둥이 건물로, 디지털헬스케어소프트웨어학부가 대표적인 학부 입니다.
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{창조 위치}</Item>
+      </Pattern>
+      <Response>
+        정의관 옆 건물로 도서관기준으로 왼편에 위치합니다!
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{운관}</Item>
+        <Item>백운관</Item>
+        <Item>백운관에대해 설명해줘</Item>
+        <Item>백운관에대해 설명해주세요</Item>
+        <Item>백운관에대해 설명해 줄래</Item>
+      </Pattern>
+      <Response>
+        보건과학대학의 본진, 가장 깊숙한 곳에 위치하여 있는 곳이다.
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>미래관</Item>
+        <Item>{미래관}</Item>
+        <Item>미래관에대해 설명해줘</Item>
+        <Item>미래관에대해 설명해주세요</Item>
+        <Item>미래관에대해 설명해 줄래</Item>
+      </Pattern>
+      <Response>
+        생명과학 기술학부의 본진, 계단 통로가 있다는 것이 특징입니다.
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{도서관}</Item>
+        <Item>도서관이 어디니</Item>
+        <Item>도서관 위치</Item>
+        <Item>도서관 어디</Item>
+        <Item>도서관 어디있나요</Item>
+        <Item>도서관</Item>
+      </Pattern>
+      <Response>
+        도서관은 학관 뒷편에 위치하고 여러 학생들이 공부를 하고 있습니다!
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{독수리}</Item>
+        <Item>{독수리상}</Item>
+        <Item>독수리상</Item>
+        <Item>독수리</Item>
+        <Item>독수리상 위치</Item>
+      </Pattern>
+      <Response>
+        연세대학교의 상징으로 학관 뒤편에 있습니다
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{연플}</Item>
+        <Item>{연세플라자}</Item>
+        <Item>연세플라자</Item>
+        <Item>연세플라자 위치</Item>
+        <Item>연세플라자 어디있나요?</Item>
+       &gt;
+           </Pattern>
+      <Response>
+        연세플라자는 정문으로 들어와 길 건너 보이는 건물로 학생들의 편의를 책임지는 곳입니다!
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{학생 회관}</Item>
+        <Item>{학관}</Item>
+        <Item>학생회관</Item>
+        <Item>학생회관 위치</Item>
+      </Pattern>
+      <Response>
+        정문으로 들어와 연플을 지나 직진한 곳에 위치하였으며, 여러 동아리 실 및 식당이 위치한 곳이다.
+      </Response>
+    </Model>
+    
+    <Model>
+      <Pattern>
+        <Item>{스포츠 센터}</Item>
+        <Item>{스센}</Item>
+        <Item>스센</Item>
+        <Item>스센  위치</Item>
+        <Item>스포츠센터</Item>
+        <Item>스포츠센터 위치</Item>
+       &gt;
+           </Pattern>
+      <Response>
+        스센은 연플 앞에 있는 건물로  학생들의 건강을  책임지는 곳입니다!
+      </Response>
+    </Model>
+    
+  </Concept>
+</Siml>
