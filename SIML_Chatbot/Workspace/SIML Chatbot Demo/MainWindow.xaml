@@ -1,0 +1,27 @@
+﻿<!-- Changjae Lee @ 2021-11-02 -->
+<!-- Title, Height, Width revised -->
+<Window x:Class="SIML_Chatbot_Demo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SIML_Chatbot_Demo"
+        mc:Ignorable="d"
+        Title="SIML Chatbot Demo" Height="350" Width="600">
+    <Grid>
+        <!-- Changjae Lee @ 2021-11-02 -->
+        <!-- Grid.RowDefinitions, TextBox, DockPanel created -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="260*"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="40*"/>
+        </Grid.RowDefinitions>
+        <TextBox Name="OutputBox" IsReadOnly="True" />
+        <DockPanel Grid.Row="2">
+            <TextBox Width="450" Name="InputBox" />
+            <Button Content="Send" 
+                    Name="SendButton" 
+                    Click="SendButton_OnClick" />
+        </DockPanel>
+    </Grid>
+</Window>

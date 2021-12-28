@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2094388100824679600
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2466154973858755574}
+  - component: {fileID: 8283566538080397642}
+  - component: {fileID: 2384898833831750988}
+  m_Layer: 5
+  m_Name: Character
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2466154973858755574
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2094388100824679600}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2491693322064565901}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 641.0923, y: 693.08777}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &8283566538080397642
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2094388100824679600}
+  m_CullTransparentMesh: 0
+--- !u!114 &2384898833831750988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2094388100824679600}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 7afb4e828a260d040904e2abaaef0d13, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 1
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!1 &7508814435215222075
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2491693322064565901}
+  - component: {fileID: 4283294462297953846}
+  m_Layer: 5
+  m_Name: Corgi 3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2491693322064565901
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7508814435215222075}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2466154973858755574}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
+--- !u!114 &4283294462297953846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7508814435215222075}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a5a64cd5d3cd145a7103f06689cdd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PutInputIntoQueue: 0
+  Input: Thank you for buying my asset. Have a nice day. Cheers.
+  WaitTimeBetweenCharacters: 0.1
+  WaitTimeBetweenWords: 0.1
+  WaitTimeBetweenSentences: 0.5
+  UseSmartCorrect: 1
+  LetterSpriteList:
+  - Characters:
+    - a
+    - i
+    Sprite: {fileID: 21300000, guid: 29b096fdab5a21b4796d5033450afe10, type: 3}
+  - Characters:
+    - b
+    - m
+    - p
+    Sprite: {fileID: 21300000, guid: e5febda64c735e3408f79ed3eaa67c14, type: 3}
+  - Characters:
+    - c
+    - d
+    - g
+    - k
+    - h
+    - r
+    - s
+    - x
+    - z
+    Sprite: {fileID: 21300000, guid: 79bed0b84faa5e149b6afbb9a6e4e534, type: 3}
+  - Characters:
+    - e
+    Sprite: {fileID: 21300000, guid: 92d9d62e843330d408224344c8dbb4d1, type: 3}
+  - Characters:
+    - ee
+    Sprite: {fileID: 21300000, guid: d59965a707d0b324dbde82a0a84d85c0, type: 3}
+  - Characters:
+    - f
+    - v
+    Sprite: {fileID: 21300000, guid: 311b09d6635b2d444bcee6022d4d01ad, type: 3}
+  - Characters:
+    - l
+    - th
+    Sprite: {fileID: 21300000, guid: 415a664696ffbfa4aa5e3b403d994b73, type: 3}
+  - Characters:
+    - n
+    - t
+    - y
+    Sprite: {fileID: 21300000, guid: 14a239df8792ea14cbb42f1b61c4033d, type: 3}
+  - Characters:
+    - o
+    - ch
+    - sh
+    - j
+    Sprite: {fileID: 21300000, guid: c52fe56bf1a35e94b804b2281a03f22d, type: 3}
+  - Characters:
+    - q
+    - w
+    - u
+    Sprite: {fileID: 21300000, guid: 6a7ddc962f1d3104d8bb46ba44e59214, type: 3}
+  IdleSprite: {fileID: 21300000, guid: 7afb4e828a260d040904e2abaaef0d13, type: 3}

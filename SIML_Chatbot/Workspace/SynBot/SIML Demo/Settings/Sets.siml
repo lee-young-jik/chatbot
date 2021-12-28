@@ -1,0 +1,13 @@
+﻿<Siml>
+  <!--Note: When referring to an already declared set you should enclose the set name within square brackets [EXAMPLE]-->
+  <!--Note: Names of set(s) are case insensitive and are language-independent-->
+  <!--Note: Set names should be Singural by convention-->
+  
+  <!-- Changjae Lee @ 2021-11-02 --> 
+  <Set Name="COLOR">
+	<Item>Red</Item>
+	<Item>Green</Item>
+	<Item>Blue</Item>
+  </Set> 
+  
+</Siml>

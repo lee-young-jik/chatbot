@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2094388100824679600
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2466154973858755574}
+  - component: {fileID: 8283566538080397642}
+  - component: {fileID: 2384898833831750988}
+  m_Layer: 5
+  m_Name: Character
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2466154973858755574
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2094388100824679600}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2491693322064565901}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 539.9017, y: 447.33966}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &8283566538080397642
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2094388100824679600}
+  m_CullTransparentMesh: 0
+--- !u!114 &2384898833831750988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2094388100824679600}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: d7dd3012e9f6f044a8833a8f2200e7a5, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 1
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!1 &7508814435215222075
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2491693322064565901}
+  - component: {fileID: 4283294462297953846}
+  m_Layer: 5
+  m_Name: Snails 7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2491693322064565901
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7508814435215222075}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2466154973858755574}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
+--- !u!114 &4283294462297953846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7508814435215222075}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a5a64cd5d3cd145a7103f06689cdd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PutInputIntoQueue: 0
+  Input: Thank you for buying my asset. Have a nice day. Cheers.
+  WaitTimeBetweenCharacters: 0.1
+  WaitTimeBetweenWords: 0.1
+  WaitTimeBetweenSentences: 0.5
+  UseSmartCorrect: 1
+  LetterSpriteList:
+  - Characters:
+    - a
+    Sprite: {fileID: 21300000, guid: aa1318d1f128caf49ab405a4cf3a7b3c, type: 3}
+  - Characters:
+    - b
+    - m
+    - p
+    Sprite: {fileID: 21300000, guid: 4774a9cf47d62e747ac186b1a99c9599, type: 3}
+  - Characters:
+    - c
+    - d
+    - t
+    - th
+    Sprite: {fileID: 21300000, guid: 95f0826be606eaf4ea959310a05221b9, type: 3}
+  - Characters:
+    - e
+    Sprite: {fileID: 21300000, guid: 5fb3095f9bfbe4b438b0b0e046b4ea16, type: 3}
+  - Characters:
+    - ee
+    - i
+    Sprite: {fileID: 21300000, guid: 6519d5f009d1e5e439b048cb3fe88310, type: 3}
+  - Characters:
+    - f
+    - v
+    Sprite: {fileID: 21300000, guid: cacc313bfbeb2f242a2a8b6df33cf3cf, type: 3}
+  - Characters:
+    - j
+    - ch
+    - sh
+    - y
+    Sprite: {fileID: 21300000, guid: 99430f468463ce7489ce88a0a75b3efc, type: 3}
+  - Characters:
+    - k
+    - h
+    - g
+    - q
+    Sprite: {fileID: 21300000, guid: 200472c400c5de74f8770d646b055530, type: 3}
+  - Characters:
+    - l
+    Sprite: {fileID: 21300000, guid: 4d984fd0d9c1bf34ebe723832ca3404e, type: 3}
+  - Characters:
+    - n
+    Sprite: {fileID: 21300000, guid: 0ef6bfab39873d84b82ba456bd03ccf9, type: 3}
+  - Characters:
+    - o
+    Sprite: {fileID: 21300000, guid: a9ca50bdc4d12b8419839b2e8ea8ca9f, type: 3}
+  - Characters:
+    - r
+    - x
+    Sprite: {fileID: 21300000, guid: 7c0ab2726fd55954bbac839a38dd34fd, type: 3}
+  - Characters:
+    - s
+    - z
+    Sprite: {fileID: 21300000, guid: ea38ec08f979a4e4db8da3d4d47886cf, type: 3}
+  - Characters:
+    - u
+    - w
+    Sprite: {fileID: 21300000, guid: 60d1be3ff535b0a4683f37baa93cd765, type: 3}
+  IdleSprite: {fileID: 21300000, guid: d7dd3012e9f6f044a8833a8f2200e7a5, type: 3}

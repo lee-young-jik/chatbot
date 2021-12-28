@@ -1,0 +1,29 @@
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\obj\Debug\net5.0-windows\SIML Chatbot Demo.csproj.AssemblyReference.cache
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\obj\Debug\net5.0-windows\App.g.cs
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\obj\Debug\net5.0-windows\SIML Chatbot Demo_MarkupCompile.cache
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\obj\Debug\net5.0-windows\SIML Chatbot Demo_MarkupCompile.lref
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\bin\Debug\net5.0-windows\SIML Chatbot Demo.exe
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\bin\Debug\net5.0-windows\SIML Chatbot Demo.deps.json
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\bin\Debug\net5.0-windows\SIML Chatbot Demo.runtimeconfig.json
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\bin\Debug\net5.0-windows\SIML Chatbot Demo.runtimeconfig.dev.json
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\bin\Debug\net5.0-windows\SIML Chatbot Demo.dll
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\bin\Debug\net5.0-windows\ref\SIML Chatbot Demo.dll
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\bin\Debug\net5.0-windows\SIML Chatbot Demo.pdb
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\bin\Debug\net5.0-windows\Jint.dll
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\bin\Debug\net5.0-windows\Syn.Bot.dll
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\bin\Debug\net5.0-windows\Syn.Oryzer.dll
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\bin\Debug\net5.0-windows\Syn.Platform.dll
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\bin\Debug\net5.0-windows\Syn.Utilities.dll
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\bin\Debug\net5.0-windows\Syn.Workspace.dll
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\obj\Debug\net5.0-windows\MainWindow.baml
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\obj\Debug\net5.0-windows\SIML Chatbot Demo.g.resources
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\obj\Debug\net5.0-windows\SIML Chatbot Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\obj\Debug\net5.0-windows\SIML Chatbot Demo.AssemblyInfoInputs.cache
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\obj\Debug\net5.0-windows\SIML Chatbot Demo.AssemblyInfo.cs
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\obj\Debug\net5.0-windows\SIML Chatbot Demo.csproj.CoreCompileInputs.cache
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\obj\Debug\net5.0-windows\SIML Chatbot Demo.dll
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\obj\Debug\net5.0-windows\ref\SIML Chatbot Demo.dll
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\obj\Debug\net5.0-windows\SIML Chatbot Demo.pdb
+E:\RA\2021-2\PROJECT\Workspace\SIML Chatbot Demo\obj\Debug\net5.0-windows\SIML Chatbot Demo.genruntimeconfig.cache

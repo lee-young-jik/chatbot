@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2094388100824679600
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2466154973858755574}
+  - component: {fileID: 8283566538080397642}
+  - component: {fileID: 2384898833831750988}
+  m_Layer: 5
+  m_Name: Character
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2466154973858755574
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2094388100824679600}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2491693322064565901}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 462.80432, y: 555.7579}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &8283566538080397642
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2094388100824679600}
+  m_CullTransparentMesh: 0
+--- !u!114 &2384898833831750988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2094388100824679600}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 8378ed11dd2b6b44db084437266439ca, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 1
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!1 &7508814435215222075
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2491693322064565901}
+  - component: {fileID: 4283294462297953846}
+  m_Layer: 5
+  m_Name: Monsters 7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2491693322064565901
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7508814435215222075}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2466154973858755574}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
+--- !u!114 &4283294462297953846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7508814435215222075}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a5a64cd5d3cd145a7103f06689cdd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PutInputIntoQueue: 0
+  Input: Thank you for buying my asset. Have a nice day. Cheers.
+  WaitTimeBetweenCharacters: 0.1
+  WaitTimeBetweenWords: 0.1
+  WaitTimeBetweenSentences: 0.5
+  UseSmartCorrect: 1
+  LetterSpriteList:
+  - Characters:
+    - a
+    Sprite: {fileID: 21300000, guid: fe69714665a32c4459eebf906fca7785, type: 3}
+  - Characters:
+    - b
+    - m
+    - p
+    Sprite: {fileID: 21300000, guid: d229a9bb82598df4eb49821c8cff6f59, type: 3}
+  - Characters:
+    - c
+    - d
+    - t
+    - th
+    Sprite: {fileID: 21300000, guid: 7d4f48680084ce84a9c7540a0d5f17d4, type: 3}
+  - Characters:
+    - e
+    Sprite: {fileID: 21300000, guid: fb318cdea6b4dca42ba978eae7b4b0e2, type: 3}
+  - Characters:
+    - ee
+    - i
+    Sprite: {fileID: 21300000, guid: 3421f12b98899c044b28e3715f55cefb, type: 3}
+  - Characters:
+    - f
+    - v
+    Sprite: {fileID: 21300000, guid: 23c68c5cc84a74141b608ff45e9206a3, type: 3}
+  - Characters:
+    - j
+    - ch
+    - sh
+    - y
+    Sprite: {fileID: 21300000, guid: be5d683f8a24ddd43b181397574c4ebd, type: 3}
+  - Characters:
+    - k
+    - h
+    - g
+    - q
+    Sprite: {fileID: 21300000, guid: 7b90bd09872c8274ab66bee27d4baedd, type: 3}
+  - Characters:
+    - l
+    Sprite: {fileID: 21300000, guid: cb0ce7369643221438a5a19b6d88a22e, type: 3}
+  - Characters:
+    - n
+    Sprite: {fileID: 21300000, guid: a6d96ad0b5d373c45b158d09ee9a6118, type: 3}
+  - Characters:
+    - o
+    Sprite: {fileID: 21300000, guid: 224b08d57d2c4eb439eca9db89129041, type: 3}
+  - Characters:
+    - r
+    - x
+    Sprite: {fileID: 21300000, guid: b4f8dcb94b37ed748b9988897c632e7b, type: 3}
+  - Characters:
+    - s
+    - z
+    Sprite: {fileID: 21300000, guid: 9329f8f7d8874504fb189820d775792d, type: 3}
+  - Characters:
+    - u
+    - w
+    Sprite: {fileID: 21300000, guid: 5c0bb00dff3344e448cc7f4425b9900f, type: 3}
+  IdleSprite: {fileID: 21300000, guid: 8378ed11dd2b6b44db084437266439ca, type: 3}
