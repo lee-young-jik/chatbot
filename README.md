@@ -63,6 +63,7 @@ SIML 쳇봇
 11. ChatManager의 Start()를 아래와 같이 코드 변경 
 
 ![image](https://user-images.githubusercontent.com/91588673/147665321-1cbe309e-f650-4f7b-86d5-8d508e76ac94.png)
+
 12. BotDialog 클래스 생성
 
 ![image](https://user-images.githubusercontent.com/91588673/147665333-e1d8769d-b220-4a89-8be6-605aee399f9c.png)
