@@ -56,15 +56,19 @@ SIML 쳇봇
 
 10. 스크립트를 아래와 같이 채운다.
 
- ![image](https://user-images.githubusercontent.com/91588673/147665273-fbb424b9-aa27-4894-bb41-db65074c7a7f.png)
+![image](https://user-images.githubusercontent.com/91588673/147665273-fbb424b9-aa27-4894-bb41-db65074c7a7f.png)
 ![image](https://user-images.githubusercontent.com/91588673/147665278-7fe9cd7a-828c-4c08-9b6d-6814fae27840.png)
 ![image](https://user-images.githubusercontent.com/91588673/147665292-b9b6e0ff-8d47-4d9d-9cc3-c9e5c01d1f6a.png)
 
-11. ChatManager의 Start()를 아래와 같이 코드 변경 ![image](https://user-images.githubusercontent.com/91588673/147665321-1cbe309e-f650-4f7b-86d5-8d508e76ac94.png)
+11. ChatManager의 Start()를 아래와 같이 코드 변경 
+
+![image](https://user-images.githubusercontent.com/91588673/147665321-1cbe309e-f650-4f7b-86d5-8d508e76ac94.png)
 12. BotDialog 클래스 생성
+
 ![image](https://user-images.githubusercontent.com/91588673/147665333-e1d8769d-b220-4a89-8be6-605aee399f9c.png)
 
 13. Simlpk 파일을 유니티에 이식(+ ChatManager 스크립트 수정) 후 실행하기
+
 ![image](https://user-images.githubusercontent.com/91588673/147665350-6631242c-ad3c-4a29-8e37-a02c37a278bf.png)
 ![image](https://user-images.githubusercontent.com/91588673/147665360-0d57d783-c405-432f-97b8-3fb1f5f9a1db.png)
 ![image](https://user-images.githubusercontent.com/91588673/147665369-17199861-cc3f-484d-a6a0-10ef2eb1bde7.png)
