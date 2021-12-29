@@ -53,7 +53,9 @@ SIML 쳇봇
 7. 좌측 상단에 Assets > Import Package > Custom Package를 통해 다운받은 패키지를 import한다.
 8. Hierarchy에서 ctrl + shift + N 눌러서 GameObject 생성 후 이름을 ChatManager로 변경.
 9. Assets 폴더에 Scripts 폴더 생성 후 거기서 [ChatManager] C# Script를 생성
+
 10. 스크립트를 아래와 같이 채운다.
+
  ![image](https://user-images.githubusercontent.com/91588673/147665273-fbb424b9-aa27-4894-bb41-db65074c7a7f.png)
 ![image](https://user-images.githubusercontent.com/91588673/147665278-7fe9cd7a-828c-4c08-9b6d-6814fae27840.png)
 ![image](https://user-images.githubusercontent.com/91588673/147665292-b9b6e0ff-8d47-4d9d-9cc3-c9e5c01d1f6a.png)
