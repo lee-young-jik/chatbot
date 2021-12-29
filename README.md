@@ -78,7 +78,9 @@ SIML 쳇봇
 3. Assets > Import Package > Custom Package > All > Import 백업한 패키지 불러오기
 4. 좌측 상단 Window > Asset Store > LipSync-animal collections 검색, 구매 및 Import
 5. animal collections 폴더 > Prefabs > Animal heads > Animal heads1, Animal heads1의 이름을 head로 변경.
+
  ![image](https://user-images.githubusercontent.com/91588673/147665446-af6c5388-56c6-4960-8b9c-e2fcb38a6c2c.png)
+ 
 6. Pronunciation_Kor_En.cs를 Assets 폴더 내로 위치하기.(업로드 된 자료에 있다.)
 7. Pronunciation_Kor_En.cs를 ChatManager에 드래그하여 Component를 추가한다.
 8. ChatManager.cs 수정
@@ -86,6 +88,7 @@ SIML 쳇봇
 ![image](https://user-images.githubusercontent.com/91588673/147665545-45bd3af1-e586-4cdf-8520-9ea5c70e98ae.png)
 ![image](https://user-images.githubusercontent.com/91588673/147665552-66a39ef7-ecc3-482c-b81b-98bfa9088d04.png)
 ![image](https://user-images.githubusercontent.com/91588673/147665559-ba4f9996-9b51-4b18-8cd6-f6824dfda59e.png)
+
 9. TextToSpeech.cs 수정
 
 ![image](https://user-images.githubusercontent.com/91588673/147665575-3b2a4bd3-4d61-4199-94a0-478bc94dafb1.png)
@@ -94,7 +97,9 @@ SIML 쳇봇
 10. LipSyncManager.cs 수정
 
  ![image](https://user-images.githubusercontent.com/91588673/147665597-2864a214-7991-4142-b37d-11b4d107c049.png)
+ 
 11. 최종 결과
+
  ![image](https://user-images.githubusercontent.com/91588673/147665619-d8cda1c5-a6f9-4a3b-97f0-591cbd20b2bb.png)
 
 
